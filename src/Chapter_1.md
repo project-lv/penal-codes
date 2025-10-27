@@ -1,7 +1,7 @@
 ## Chapter 1 — Definitions & Judicial Procedures
 
 ## Jurisdiction: State of San Andreas · County of Bone · City of Las Venturas
-## Abbreviation: S.A.R.P.C.
+## Abbreviation: S.A.R.P.C. (San Andreas Rural Penal Code)
 ## Authority: Established under the San Andreas Justice Act of 2025
 
 ## Article I — Purpose and Application
@@ -119,5 +119,3 @@ Changes require joint approval by the Department of Justice of San Andreas and L
 
 §117. Effective Date.
 This Chapter becomes effective upon publication in the Project: Las Venturas legal repository.
-
-## End of Chapter 1 — Definitions & Judicial Procedures
