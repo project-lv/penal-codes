@@ -9,15 +9,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Source
-        uses: actions/checkout@v3
+        uses: actions/checkout@v5
 
       - name: Setup mdBook
-        uses: peaceiris/actions-mdbook@v1.1.13
+        uses: peaceiris/actions-mdbook@v2
 
       - name: Build Documentation
         run: mdbook build
 
       - name: Deploy Documentation
-        uses: JamesIves/github-pages-deploy-action@v4.4.0
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
           folder: book
