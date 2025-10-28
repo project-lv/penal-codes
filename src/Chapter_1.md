@@ -1,7 +1,5 @@
 ## Chapter 1 — Definitions & Judicial Procedures
 
-## HI DINNY THIS IS VINE 10/28/2025 14:16PM
-
 Jurisdiction: State of San Andreas · County of Bone · City of Las Venturas
 
 Abbreviation: S.A.R.P.C. (San Andreas Rural Penal Code)
