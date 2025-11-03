@@ -14,7 +14,7 @@ They encompass theft, vandalism, burglary, arson, and other acts resulting in lo
 Except where negligence is specified, property crimes require intentional or knowing conduct.
 
 **§303. Classification.**  
-Penalties depend on the value of property involved, degree of damage, and method of commission.
+Penalties depend on the value of the property involved, the degree of damage, and the method of commission.
 
 ---
 
@@ -49,11 +49,11 @@ Fraudulent appropriation of property by a person entrusted with it.
 ## Article III — Burglary and Trespassing
 
 **S.A.R.P.C. §320 — Burglary (Class B Felony)**  
-Entering any structure with intent to commit a felony or theft.  
+Entering any structure with the intent to commit a felony or theft.  
 **Penalty:** 15–25 min jail, $3,500 fine.
 
 **S.A.R.P.C. §321 — Home Invasion (Class A Felony)**  
-Entering an occupied dwelling with intent to commit a crime and cause harm.  
+Entering an occupied dwelling with the intent to commit a crime and cause harm.  
 **Penalty:** 25–40 min jail, $5,000 fine.
 
 **S.A.R.P.C. §322 — Criminal Trespass (Class C Misdemeanor)**  
@@ -73,7 +73,7 @@ Intentional burning or explosion damaging property or endangering life.
 **Penalty:** 30–40 min jail, $5,000 fine.
 
 **S.A.R.P.C. §331 — Attempted Arson (Class B Felony)**  
-Taking substantial steps toward commission of arson.  
+Taking substantial steps toward the commission of arson.  
 **Penalty:** 20–25 min jail, $3,500 fine.
 
 **S.A.R.P.C. §332 — Criminal Mischief / Vandalism (Class B Misdemeanor)**  
@@ -93,7 +93,7 @@ Obtaining money, property, or services by deception.
 **Penalty:** 15–25 min jail, $3,500 fine.
 
 **S.A.R.P.C. §341 — Forgery (Class B Felony)**  
-Making or altering documents with intent to defraud.  
+Making or altering documents with the intent to defraud.  
 **Penalty:** 15–25 min jail, $3,500 fine.
 
 **S.A.R.P.C. §342 — Identity Theft (Class A Felony)**  
@@ -117,7 +117,7 @@ Obtaining money or property through threat or intimidation.
 **Penalty:** 25–35 min jail, $4,500 fine.
 
 **S.A.R.P.C. §351 — Blackmail (Class B Felony)**  
-Threatening to reveal information to gain advantage or property.  
+Threatening to reveal information to gain an advantage or property.  
 **Penalty:** 15–25 min jail, $3,500 fine.
 
 ---
