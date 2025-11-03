@@ -12,10 +12,10 @@ Authority: Established under the San Andreas Justice Act of 2025
 This Code defines criminal and civil offenses enforceable within the State of San Andreas. It provides uniform classifications, sentencing standards, and procedural references for law enforcement, judiciary, and corrections personnel participating in roleplay operations within Project: Las Venturas.
 
 §102. Application.
-All enacted statutes apply to any act or omission committed within San Andreas territorial boundaries, including Bone County, Red County, Las Venturas, and Los Santos County, unless expressly superseded by local ordinance.
+All enacted statutes apply to any act or omission committed within San Andreas territorial boundaries, including Bone County, Red County, Flint County, Areas of Los Santos, San Fierro, and Las Venturas, unless expressly superseded by local ordinance.
 
 §103. Supremacy of Law.
-When conflicts arise between agency policy and statute, statutory provisions shall prevail. Local agencies may expand but not diminish definitions or penalties established herein.
+When conflicts arise between agency policy and a statute, the statute shall prevail. Local agencies may expand but not diminish definitions or penalties established herein.
 
 ## Article II — Judicial Structure
 
@@ -25,17 +25,17 @@ Superior Court: Handles felony trials and appeals.
 Appellate Division: Reviews questions of law arising from Superior Court rulings.
 
 §105. Judicial Officers.
-Judges, magistrates, and commissioners shall interpret statutes strictly by their written language. Administrative staff (clerks, bailiffs, recorders) act under direct supervision of presiding judges.
+Judges, magistrates, and commissioners shall interpret statutes strictly by their written language. Administrative staff (clerks, bailiffs, recorders) act under the direct supervision of presiding judges.
 
 §106. Right to Counsel.
 All defendants charged with a misdemeanor or felony may retain licensed counsel. If unable, the court may appoint a public defender for proceedings exceeding ten minutes of custody time.
 
 §107. Prosecution.
-Criminal cases are prosecuted by the Office of the District Attorney of Bone County. Civil citations are handled by the San Andreas Municipal Prosecutor’s Office.
+The Office of the District Attorney of Bone County prosecutes criminal cases. Civil citations are handled by the San Andreas Municipal Prosecutor’s Office.
 
 §108. Burden of Proof.
 
-Criminal cases: Proof beyond reasonable doubt.
+Criminal cases: Proof beyond a reasonable doubt.
 Civil cases: Preponderance of evidence.
 Administrative violations: Substantial evidence standard.
 
@@ -45,7 +45,7 @@ Term	Definition
 Actor: Any person performing an action described in this Code.
 Agency: Any recognized law enforcement, fire, or emergency service under government charter.
 Arrest: Lawful seizure of a person upon probable cause or warrant.
-Attempt: Overt act toward commission of an offense, whether completed or not.
+Attempt: Overt act toward the commission of an offense, whether completed or not.
 Conspiracy:	Agreement between two or more persons to commit an unlawful act.
 Deadly Weapon: Any object capable of causing death or serious injury, including firearms, knives, explosives, or vehicles used as weapons.
 Defendant: Individual formally charged with violation of this Code.
@@ -72,25 +72,25 @@ Class B Misdemeanor	5–10 min	$1,000–$1,500	Petty Theft
 Class C Misdemeanor	0–5 min	$500–$1,000	Vandalism
 
 §111. Infractions.
-Non-criminal violations subject to citation only. Example: Littering, Loitering, Parking violations.
+Non-criminal violations are subject to citation only. Example: Littering, Loitering, Parking violations.
 
 ## Article V — Procedural Rights
 §112. Miranda Obligations.
 Upon arrest, officers must inform the suspect of the right to remain silent, the right to counsel, and the understanding that statements may be used against them.
 
 §113. Search and Seizure.
-All searches require consent, probable cause, or warrant. Evidence obtained unlawfully is inadmissible.
+All searches require consent, probable cause, or a warrant. Evidence obtained unlawfully is inadmissible.
 
 §114. Use of Force.
 Force must be proportional to resistance or threat. Deadly force is authorized only to prevent imminent loss of life.
 
 §115. Custody and Processing.
 
-All arrestees must be logged in a custody system.
+All arrestees must be logged into a custody system.
 
 Time begins upon booking confirmation.
 
-Release after time served or fine payment must be recorded by issuing agency.
+Release after time served or fine payment must be recorded by the issuing agency.
 
 ## Article VI — Enforcement Notes (RP Guidance)
 
@@ -117,7 +117,7 @@ Infraction	—	—	≤ $1,000
 ## Article VIII — Administrative Implementation
 
 §116. Amendment Procedure.
-Changes require joint approval by the Department of Justice of San Andreas and Las Venturas Judiciary Committee. Each amendment shall be logged in the Appendix revision table.
+Changes require joint approval by the Department of Justice of San Andreas and the Las Venturas Judiciary Committee. Each amendment shall be logged in the Appendix revision table.
 
 §117. Effective Date.
 This Chapter becomes effective upon publication in the Project: Las Venturas legal repository.
