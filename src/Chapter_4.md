@@ -7,7 +7,7 @@
 ## Article I — General Overview
 
 **§401. Definition.**  
-Crimes against public order and safety are acts which disrupt peace, obstruct justice, or endanger the community at large.  
+Crimes against public order and safety are acts that disrupt peace, obstruct justice, or endanger the community at large.  
 These laws preserve the integrity of civil life, government function, and community welfare.
 
 **§402. Scope.**  
@@ -18,7 +18,7 @@ Applies to all persons and organizations operating within the State of San Andre
 ## Article II — Public Disorder
 
 **S.A.R.P.C. §410 — Disorderly Conduct (Class C Misdemeanor)**  
-Engaging in fighting, loud disturbance, or offensive behavior disrupting public order.  
+Engaging in fighting, loud disturbance, or offensive behavior that disrupts public order.  
 **Penalty:** 5 min jail or $1,000 fine.
 
 **S.A.R.P.C. §411 — Disturbing the Peace (Class C Misdemeanor)**  
@@ -26,7 +26,7 @@ Unlawful noise, fighting, or provocation in a public area.
 **Penalty:** $750 fine.
 
 **S.A.R.P.C. §412 — Public Intoxication (Class C Misdemeanor)**  
-Appearing in public while intoxicated to a degree endangering self or others.  
+Appearing in public while intoxicated to a degree endangers oneself or others.  
 **Penalty:** $1,000 fine.
 
 **S.A.R.P.C. §413 — Inciting a Riot (Class B Felony)**  
@@ -34,7 +34,7 @@ Encouraging or participating in violent disorder with five or more people.
 **Penalty:** 15–25 min jail, $3,500 fine.
 
 **S.A.R.P.C. §414 — Unlawful Assembly (Class B Misdemeanor)**  
-Gathering of three or more persons with intent to disturb peace or commit an unlawful act.  
+Gathering of three or more persons with the intent to disturb peace or commit an unlawful act.  
 **Penalty:** 5–10 min jail, $1,500 fine.
 
 **S.A.R.P.C. §415 — Resisting Arrest (Class B Misdemeanor)**  
@@ -54,7 +54,7 @@ Reporting a crime or emergency known to be false.
 **Penalty:** 5–10 min jail, $1,500 fine.
 
 **S.A.R.P.C. §421 — Impersonation of a Public Official (Class B Felony)**  
-Assuming identity or authority of law enforcement or government officer.  
+Assuming the identity or authority of a law enforcement or government officer.  
 **Penalty:** 20–25 min jail, $3,500 fine.
 
 **S.A.R.P.C. §422 — Perjury (Class B Felony)**  
@@ -62,7 +62,7 @@ Knowingly making false statements under oath.
 **Penalty:** 20–25 min jail, $3,500 fine.
 
 **S.A.R.P.C. §423 — Evidence Tampering (Class B Felony)**  
-Altering, concealing, or fabricating evidence with intent to mislead.  
+Altering, concealing, or fabricating evidence with the intent to mislead.  
 **Penalty:** 15–25 min jail, $3,500 fine.
 
 **S.A.R.P.C. §424 — Filing False Documents (Class B Misdemeanor)**  
@@ -78,7 +78,7 @@ Offering or receiving anything of value to influence a public official.
 **Penalty:** 30–40 min jail, $5,000 fine.
 
 **S.A.R.P.C. §431 — Official Misconduct (Class B Felony)**  
-Abuse of authority by public servant for personal or unlawful gain.  
+Abuse of authority by a public servant for personal or unlawful gain.  
 **Penalty:** 20–25 min jail, $3,500 fine.
 
 **S.A.R.P.C. §432 — Obstruction by Public Official (Class B Felony)**  
@@ -94,7 +94,7 @@ Appointing relatives or associates to public office in violation of hiring proce
 ## Article V — Terrorism, Bomb Threats, and Weapons of Mass Harm
 
 **S.A.R.P.C. §440 — Terroristic Threats (Class A Felony)**  
-Threatening mass harm, death, or destruction to intimidate government or population.  
+Threatening mass harm, death, or destruction to intimidate the government or population.  
 **Penalty:** 30–40 min jail, $5,000 fine.
 
 **S.A.R.P.C. §441 — Use of Explosive Devices (Class A Felony)**  
@@ -102,7 +102,7 @@ Detonation or attempted detonation of any explosive causing damage or injury.
 **Penalty:** 35–40 min jail, $5,000 fine.
 
 **S.A.R.P.C. §442 — Hoax Bomb or Threat (Class B Felony)**  
-Issuing a false bomb threat or presenting imitation explosive device.  
+Issuing a false bomb threat or presenting an imitation explosive device.  
 **Penalty:** 20–25 min jail, $3,500 fine.
 
 **S.A.R.P.C. §443 — Biological or Chemical Threats (Class A Felony)**  
@@ -122,11 +122,11 @@ Disabling or misusing fire alarms, extinguishers, sirens, or call boxes.
 **Penalty:** 5–10 min jail, $1,500 fine.
 
 **S.A.R.P.C. §452 — Failure to Disperse (Class C Misdemeanor)**  
-Refusal to comply with lawful order to disperse from riot or hazardous scene.  
+Refusal to comply with a lawful order to disperse from a riot or hazardous scene.  
 **Penalty:** $750 fine.
 
 **S.A.R.P.C. §453 — Curfew Violation (Class C Misdemeanor)**  
-Presence in restricted area during declared curfew or emergency.  
+Presence in a restricted area during declared curfew or emergency.  
 **Penalty:** $500 fine.
 
 ---
@@ -134,7 +134,7 @@ Presence in restricted area during declared curfew or emergency.
 ## Article VII — Public Safety and Nuisance
 
 **S.A.R.P.C. §460 — Public Endangerment (Class B Misdemeanor)**  
-Creating conditions likely to cause harm to public (e.g., leaving open flames, blocking exits).  
+Creating conditions likely to cause harm to the public (e.g., leaving open flames, blocking exits).  
 **Penalty:** 10 min jail, $1,500 fine.
 
 **S.A.R.P.C. §461 — Air or Noise Pollution (Class C Misdemeanor)**  
@@ -142,7 +142,7 @@ Operating loud equipment or emitting substances beyond regulated limits.
 **Penalty:** $1,000 fine.
 
 **S.A.R.P.C. §462 — Illegal Fireworks or Pyrotechnics (Class B Misdemeanor)**  
-Unlawful possession, sale, or use of fireworks without permit.  
+Unlawful possession, sale, or use of fireworks without a permit.  
 **Penalty:** $1,500 fine.
 
 **S.A.R.P.C. §463 — Public Urination / Defecation (Class C Misdemeanor)**  
