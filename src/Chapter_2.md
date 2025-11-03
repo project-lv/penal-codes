@@ -78,7 +78,7 @@ Repeated following, monitoring, or contacting another person to cause fear or di
 **Penalty:** 10 min jail, $1,500 fine.
 
 **S.A.R.P.C. §243 — Harassment (Class C Misdemeanor)**  
-Engaging in conduct meant to alarm, annoy, or distress another without legitimate purpose.  
+Engaging in conduct meant to alarm, annoy, or distress another without a legitimate purpose.  
 **Penalty:** $750 fine.
 
 ---
@@ -90,7 +90,7 @@ Unlawful sexual contact without consent.
 **Penalty:** 20–25 min jail, $4,000 fine.
 
 **S.A.R.P.C. §251 — Sexual Assault (Class A Felony)**  
-Engaging in sexual intercourse or act by force, threat, or incapacity.  
+Engaging in sexual intercourse or an act by force, threat, or incapacity.  
 **Penalty:** 35–40 min jail, $5,000 fine.
 
 **S.A.R.P.C. §252 — Indecent Exposure (Class C Misdemeanor)**  
@@ -102,7 +102,7 @@ Intentionally exposing genitalia or engaging in lewd acts in public.
 ## Article VII — Endangerment and Neglect
 
 **S.A.R.P.C. §260 — Reckless Endangerment (Class C Felony)**  
-Engaging in conduct creating substantial risk of serious bodily harm.  
+Engaging in conduct that creates a substantial risk of serious bodily harm.  
 **Penalty:** 10–15 min jail, $2,500 fine.
 
 **S.A.R.P.C. §261 — Negligent Injury (Class B Misdemeanor)**  
@@ -117,7 +117,7 @@ Intentional harm or neglect toward a dependent, elderly, or disabled person.
 
 ## Article VIII — Enforcement Notes
 
-- Officers must document use of force incidents separately in reports.  
+- Officers must document use-of-force incidents separately in reports.  
 - Crimes involving multiple victims may stack penalties.  
 - When bodily injury results from another primary crime (e.g., robbery), add the relevant assault or homicide section.  
 - If the suspect flees or resists during apprehension, additional sections under Chapter 4 may apply.
