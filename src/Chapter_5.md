@@ -7,7 +7,7 @@
 ## Article I — General Overview
 
 **§501. Definition.**  
-Controlled substances refer to any chemical, compound, or material listed under San Andreas Drug Scheduling Regulations deemed to have potential for abuse or dependence.  
+Controlled substances refer to any chemical, compound, or material listed under the San Andreas Drug Scheduling Regulations deemed to have potential for abuse or dependence.  
 This chapter governs the possession, manufacture, distribution, and trafficking of such substances.
 
 **§502. Drug Schedules.**  
@@ -22,7 +22,7 @@ Substances are categorized into five schedules by risk and accepted medical use.
 | **V** | Minimal potential, over-the-counter with restriction | Cough syrups with codeine |
 
 **§503. Applicability.**  
-Possession, trafficking, and distribution penalties scale based on schedule and quantity.
+Possession, trafficking, and distribution penalties scale based on the schedule and quantity.
 
 ---
 
@@ -42,7 +42,7 @@ Owning tools or devices used to consume, prepare, or conceal controlled substanc
 **Penalty:** $1,500 fine.
 
 **S.A.R.P.C. §513 — Public Intoxication by Narcotic (Class C Misdemeanor)**  
-Appearing in public under influence of a Schedule I–III substance.  
+Appearing in public under the influence of a Schedule I–III substance.  
 **Penalty:** $1,000 fine.
 
 ---
@@ -50,11 +50,11 @@ Appearing in public under influence of a Schedule I–III substance.
 ## Article III — Manufacturing and Trafficking
 
 **S.A.R.P.C. §520 — Manufacturing Controlled Substances (Class A Felony)**  
-Producing, compounding, or synthesizing any controlled substance without license.  
+Producing, compounding, or synthesizing any controlled substance without a license.  
 **Penalty:** 30–40 min jail, $5,000 fine.
 
 **S.A.R.P.C. §521 — Drug Trafficking (Class A Felony)**  
-Transporting, importing, or selling controlled substances in commercial quantity.  
+Transporting, importing, or selling controlled substances in commercial quantities.  
 **Penalty:** 35–40 min jail, $5,000 fine.
 
 **S.A.R.P.C. §522 — Cultivation of Narcotics (Class B Felony)**  
@@ -62,7 +62,7 @@ Growing or cultivating plants used to produce illegal drugs (e.g., cannabis, pop
 **Penalty:** 20–25 min jail, $3,500 fine.
 
 **S.A.R.P.C. §523 — Operating a Methamphetamine Lab (Class A Felony)**  
-Maintaining or assisting in operation of illegal drug laboratory.  
+Maintaining or assisting in the operation of an illegal drug laboratory.  
 **Penalty:** 35–40 min jail, $5,000 fine.
 
 **S.A.R.P.C. §524 — Distribution to Minors (Class A Felony)**  
@@ -86,7 +86,7 @@ Licensed professional unlawfully prescribing or distributing narcotics.
 **Penalty:** 25–35 min jail, $4,500 fine.
 
 **S.A.R.P.C. §532 — Improper Recordkeeping (Administrative Violation)**  
-Failure by pharmacy or hospital to maintain drug control records.  
+Failure by the pharmacy or hospital to maintain drug control records.  
 **Penalty:** Departmental fine or suspension.
 
 ---
@@ -94,15 +94,15 @@ Failure by pharmacy or hospital to maintain drug control records.
 ## Article V — Operating Under the Influence
 
 **S.A.R.P.C. §540 — Driving Under Influence of Drugs (Class B Misdemeanor)**  
-Operating vehicle while impaired by a controlled substance.  
+Operating a vehicle while impaired by a controlled substance.  
 **Penalty:** 10–15 min jail, $1,500 fine, license suspension.
 
 **S.A.R.P.C. §541 — Boating or Flying Under Influence (Class B Misdemeanor)**  
-Operating vessel or aircraft while impaired.  
+Operating a vessel or aircraft while impaired.  
 **Penalty:** 10–15 min jail, $1,500 fine, suspension of applicable license.
 
-**S.A.R.P.C. §542 — Endangering a Minor While Impaired (Class B Felony)**  
-Driving or operating a vehicle while impaired with a minor present.  
+**S.A.R.P.C. §542 — Endangering another being While Impaired (Class B Felony)**  
+Driving or operating a vehicle while impaired with a human being present.  
 **Penalty:** 20–25 min jail, $3,500 fine.
 
 ---
@@ -116,7 +116,7 @@ All narcotics, paraphernalia, and proceeds derived from narcotic offenses shall 
 Vehicles, properties, and funds used in drug trafficking are subject to forfeiture upon conviction.
 
 **S.A.R.P.C. §552 — Controlled Deliveries.**  
-Undercover operations involving controlled transfers are permissible with authorization from Narcotics Division Command.
+Undercover operations involving controlled transfers are permissible with authorization from the Narcotics Division Command.
 
 **S.A.R.P.C. §553 — Rehabilitation Option.**  
 First-time offenders under §510 or §512 may receive rehabilitation referral in place of incarceration.
@@ -127,5 +127,5 @@ First-time offenders under §510 or §512 may receive rehabilitation referral in
 
 - Officers must field-test substances before citation when possible.  
 - Evidence should be documented using bagged and labeled chain-of-custody logs.  
-- Medical use of Schedule II–V substances is exempt with valid prescription.  
+- Medical use of Schedule II–V substances is exempt with a valid prescription.  
 - Distribution charges require physical handoff, controlled buy, or clear intent evidence.
