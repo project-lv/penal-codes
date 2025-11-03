@@ -1,10 +1,10 @@
-# P:LV — San Andreas Revised Penal Code (S.A.R.P.C.)
+# P: LV — San Andreas Rural Penal Code (S.A.R.P.C.)
 A comprehensive, lore-friendly legal code developed for **Project: Las Venturas**, authored and formatted using **[Rust’s mdBook](https://rust-lang.github.io/mdBook/index.html)** system.  
 This repository serves as the definitive reference for all **criminal, civil, and administrative law** under the *State of San Andreas (Lore Edition)* — applicable to law enforcement, courts, government agencies, and player citizens.
 
 
 ## ⚖️ Overview
-The **San Andreas Revised Penal Code (S.A.R.P.C.)** establishes uniform standards for crime classification, penalties, and judicial procedure.  
+The **San Andreas Rural Penal Code (S.A.R.P.C.)** establishes uniform standards for crime classification, penalties, and judicial procedure.  
 It ensures consistent legal enforcement across roleplay environments while preserving the immersive realism of San Andreas’ justice system.
 This codebook balances **roleplay practicality** with **real-world legal structure**, providing clarity for both staff and players involved in law, policing, or judiciary functions.
 
@@ -43,7 +43,7 @@ Maintained by: Department of Justice — State of San Andreas (Lore)
 Administrators: Project: Las Venturas Development & Senior+ Administrators and Faction Leaders
 Repository Owner: Project LV Development Team
 Versioning: Each major revision increment (e.g., 1.1, 1.2) must include changelog entries within Chapter 10 — Appendices.
-For gameplay or administrative consistency, all agencies (LVMPD, LVFR, DOJ, GOVT, etc.) must reference the current published version when enforcing legal code.
+For gameplay or administrative consistency, all agencies (LVMPD, LVF&R, DOJ/DOC, GOVT, etc.) must reference the current published version when enforcing legal code.
 
 ## 🔗 References
 mdBook Documentation
