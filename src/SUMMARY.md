@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://project-lv.co/images/factions/SAGOV.png" alt="San Andreas Government Seal" width="250">
+</p>
 # Summary
 
 - [Chapter 1 — Definitions & Judicial Procedures](./Chapter_1.md)
@@ -10,3 +13,8 @@
 - [Chapter 8 - Civil Infractions](./Chapter_8.md)
 - [Chapter 9 - Sentencing, Classes, and Guidelines](./Chapter_9.md)
 - [Chapter 10 - Administrative Notes and Revision History](./Chapter_10.md)
+
+
+<p align="center">
+  <img src="https://project-lv.co/images/logoNeon.png" alt="Project: Las Venturas" width="250">
+</p>
