@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://project-lv.co/images/factions/SAGOV.png" alt="San Andreas Government Seal" width="250">
 </p>
+
 # San Andreas Penal Codes
 
 # Chapter 2 — Crimes Against the Person

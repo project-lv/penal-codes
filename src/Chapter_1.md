@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://project-lv.co/images/factions/SAGOV.png" alt="San Andreas Government Seal" width="250">
 </p>
+
 # San Andreas Rural Penal Code (S.A.R.P.C.)
 *Established under the San Andreas Justice Act of 2025*  
 **Jurisdiction:** State of San Andreas · County of Bone · City of Las Venturas  
